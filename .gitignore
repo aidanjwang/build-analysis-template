@@ -1,0 +1,7 @@
+# Data
+raw
+processed/*
+temp/*
+
+# Output
+output/*

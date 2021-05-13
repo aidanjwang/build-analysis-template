@@ -1,5 +1,5 @@
 # Data Build and Analysis
-A data-build-and-analysis repository.
+A data build and analysis.
 
 ## Installation
 ### Download the Data
