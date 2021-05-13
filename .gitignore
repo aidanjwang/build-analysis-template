@@ -1,7 +1,11 @@
-# Data
-raw
-processed/*
-temp/*
+# Data but not data folders
+/raw/*
+!/raw/.gitkeep
+/processed/*
+!/processed/.gitkeep
+/temp/*
+!/temp/.gitkeep
 
-# Output
-output/*
+# Output but not output folder
+/output/*
+!/output/.gitkeep
